@@ -3,8 +3,8 @@ server:
 spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:ORCL
-    username: scott
-    password: tiger
+    username: bank
+    password: bank
     driver-class-name: oracle.jdbc.driver.OracleDriver
 
   jpa:
